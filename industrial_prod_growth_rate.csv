@@ -1,0 +1,194 @@
+id,country,industrial_prod_growth_rate
+119,Sierra Leone,42
+144,Solomon Islands,14
+237,Macau,13.5
+85,Guyana,13.5
+87,Kyrgyzstan,12
+11,"Congo, Democratic Republic of the",12
+40,Burma,11.4
+19,Mongolia,11
+16,Sudan,11
+84,Laos,11
+82,Ghana,10.5
+21,Chad,10
+122,Sri Lanka,10
+17,Libya,9.6
+90,Cambodia,9.5
+118,Panama,9.2
+73,Philippines,9
+95,Bangladesh,9
+27,Ethiopia,9
+151,Djibouti,8
+29,Mauritania,8
+39,Zambia,8
+156,New Caledonia,8
+53,Turkmenistan,8
+35,Mozambique,8
+4,China,7.7
+31,Tanzania,7.4
+48,Botswana,7.2
+57,Uzbekistan,7.1
+24,Mali,7
+69,Cote d'Ivoire,7
+137,Bhutan,7
+101,Eritrea,7
+59,Iraq,6.9
+91,Uruguay,6.6
+75,Burkina Faso,6.5
+131,Slovakia,6.5
+160,Timor-Leste,6.2
+148,Haiti,6
+149,Rwanda,6
+129,Bosnia and Herzegovina,5.8
+22,Niger,5.7
+28,Bolivia,5.6
+60,Paraguay,5.6
+34,Namibia,5.6
+55,Papua New Guinea,5.5
+23,Angola,5.5
+154,Israel,5.5
+70,Poland,5.2
+49,Kenya,5.1
+126,Togo,5.1
+66,Vietnam,5
+67,Malaysia,5
+140,Moldova,5
+20,Peru,5
+50,Yemen,4.8
+164,Vanuatu,4.8
+188,Bahrain,4.7
+103,Honduras,4.6
+79,Guinea,4.6
+147,Burundi,4.5
+77,Gabon,4.4
+130,Costa Rica,4.3
+15,Indonesia,4.3
+142,Lesotho,4.3
+124,Latvia,4.2
+54,Cameroon,4.1
+158,Kuwait,4.1
+180,Comoros,4
+92,Suriname,4
+51,Thailand,4
+96,Tajikistan,4
+185,Sao Tome and Principe,4
+47,Madagascar,4
+143,Armenia,3.9
+81,Uganda,3.8
+61,Zimbabwe,3.7
+199,Seychelles,3.7
+102,Benin,3.7
+107,Guatemala,3.7
+192,Singapore,3.5
+37,Turkey,3.5
+14,Mexico,3.5
+116,Czech Republic,3.5
+71,Oman,3.5
+36,Pakistan,3.5
+167,"Gambia, The",3.4
+183,Faroe Islands,3.4
+115,United Arab Emirates,3.3
+6,Australia,3.2
+146,Equatorial Guinea,3.2
+74,Ecuador,3.1
+172,West Bank,3
+220,British Virgin Islands,3
+204,Saint Vincent and the Grenadines,3
+93,Tunisia,3
+186,Turks and Caicos Islands,3
+88,Senegal,3
+98,Nicaragua,3
+170,Lebanon,3
+121,Georgia,3
+133,Estonia,3
+38,Chile,3
+5,Brazil,3
+113,Azerbaijan,3
+166,Qatar,2.9
+100,Malawi,2.8
+112,Jordan,2.8
+8,Argentina,2.7
+13,Saudi Arabia,2.7
+106,Cuba,2.6
+193,Saint Lucia,2.6
+83,Romania,2.6
+3,United States,2.5
+157,Fiji,2.5
+132,Dominican Republic,2.5
+26,Colombia,2.5
+10,Algeria,2.5
+109,"Korea, South",2.5
+117,Serbia,2.2
+136,Switzerland,2.2
+9,Kazakhstan,2.1
+153,El Salvador,2.1
+123,Lithuania,2
+64,"Congo, Republic of the",2
+227,Anguilla,2
+226,Montserrat,2
+76,New Zealand,1.9
+110,Hungary,1.8
+176,Cabo Verde,1.8
+139,Taiwan,1.8
+211,Cayman Islands,1.5
+161,"Bahamas, The",1.5
+173,Brunei,1.5
+155,Slovenia,1.5
+94,Nepal,1.5
+168,Jamaica,1.5
+2,Canada,1.4
+30,Egypt,1.4
+174,Trinidad and Tobago,1.2
+58,Morocco,1.2
+138,Guinea-Bissau,1.2
+134,Denmark,1.1
+135,Netherlands,1
+62,Japan,1
+33,Venezuela,1
+190,Tonga,1
+232,Bermuda,1
+201,Antigua and Barbuda,1
+215,Cook Islands,1
+105,Bulgaria,1
+86,Belarus,1
+32,Nigeria,0.9
+25,South Africa,0.9
+7,India,0.9
+114,Austria,0.5
+212,Saint Kitts and Nevis,0.5
+99,"Korea, North",0.5
+163,Puerto Rico,0.5
+159,Swaziland,0.4
+145,Albania,0.4
+141,Belgium,0.2
+181,Mauritius,0.2
+120,Ireland,0.2
+1,Russia,0.1
+184,Hong Kong,0
+27,European Union,-0.2
+63,Germany,-0.3
+80,United Kingdom,-0.3
+43,France,-0.4
+127,Croatia,-0.5
+150,Macedonia,-0.6
+202,Barbados,-0.7
+210,Maldives,-0.9
+189,Dominica,-1
+56,Sweden,-1
+152,Belize,-1
+179,Luxembourg,-1
+111,Portugal,-1
+108,Iceland,-1
+229,San Marino,-1.1
+52,Spain,-1.2
+207,Grenada,-2
+72,Italy,-2.7
+68,Norway,-3
+171,Cyprus,-3.5
+97,Greece,-3.5
+65,Finland,-4.2
+178,Samoa,-4.8
+46,Ukraine,-5
+18,Iran,-5.2
+45,Central African Republic,-11
+89,Syria,-20.6

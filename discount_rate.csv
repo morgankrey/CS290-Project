@@ -1,0 +1,144 @@
+id,country,discount_rate
+61,Zimbabwe,975
+23,Angola,30
+33,Venezuela,29.5
+185,Sao Tome and Principe,28
+130,Costa Rica,23
+79,Guinea,22.25
+11,"Congo, Democratic Republic of the",20
+82,Ghana,17
+100,Malawi,15
+37,Turkey,15
+66,Vietnam,15
+39,Zambia,14.49
+36,Pakistan,14
+86,Belarus,13.5
+19,Mongolia,12.25
+29,Mauritania,12
+40,Burma,12
+152,Belize,12
+46,Ukraine,11.97
+149,Rwanda,11.25
+167,"Gambia, The",11
+5,Brazil,11
+147,Burundi,10
+142,Lesotho,10
+48,Botswana,10
+170,Lebanon,10
+81,Uganda,9.65
+117,Serbia,9.5
+91,Uruguay,8.75
+74,Ecuador,8.68
+30,Egypt,8.68
+1,Russia,8
+9,Kazakhstan,7.5
+176,Cabo Verde,7.5
+143,Armenia,7.25
+174,Trinidad and Tobago,7.25
+122,Sri Lanka,7
+25,South Africa,7
+202,Barbados,7
+34,Namibia,7
+110,Hungary,7
+127,Croatia,7
+210,Maldives,6.96
+55,Papua New Guinea,6.92
+159,Swaziland,6.5
+204,Saint Vincent and the Grenadines,6.5
+227,Anguilla,6.5
+189,Dominica,6.5
+201,Antigua and Barbuda,6.5
+226,Montserrat,6.5
+94,Nepal,6.5
+207,Grenada,6.5
+193,Saint Lucia,6.5
+212,Saint Kitts and Nevis,6.5
+15,Indonesia,6.46
+60,Paraguay,6
+7,India,6
+59,Iraq,6
+164,Vanuatu,6
+32,Nigeria,6
+108,Iceland,5.75
+83,Romania,5.75
+73,Philippines,5.6
+90,Cambodia,5.25
+113,Azerbaijan,5.25
+121,Georgia,5.25
+145,Albania,5.25
+20,Peru,5.05
+96,Tajikistan,5
+26,Colombia,5
+76,New Zealand,5
+95,Bangladesh,5
+89,Syria,5
+166,Qatar,4.93
+112,Jordan,4.75
+138,Guinea-Bissau,4.75
+21,Chad,4.75
+64,"Congo, Republic of the",4.75
+22,Niger,4.75
+45,Central African Republic,4.75
+14,Mexico,4.5
+6,Australia,4.35
+75,Burkina Faso,4.25
+126,Togo,4.25
+88,Senegal,4.25
+102,Benin,4.25
+24,Mali,4.25
+69,Cote d'Ivoire,4.25
+85,Guyana,4.25
+77,Gabon,4.25
+146,Equatorial Guinea,4.25
+70,Poland,4
+150,Macedonia,4
+84,Laos,4
+10,Algeria,4
+161,"Bahamas, The",4
+31,Tanzania,3.7
+124,Latvia,3.5
+58,Morocco,3.31
+35,Mozambique,3.25
+51,Thailand,3.25
+218,Aruba,3
+28,Bolivia,3
+157,Fiji,3
+158,Kuwait,3
+17,Libya,3
+67,Malaysia,2.83
+109,"Korea, South",2.75
+87,Kyrgyzstan,2.5
+4,China,2.25
+180,Comoros,2.21
+123,Lithuania,2.06
+139,Taiwan,1.88
+131,Slovakia,1.75
+154,Israel,1.75
+68,Norway,1.75
+97,Greece,1.5
+63,Germany,1.5
+43,France,1.5
+65,Finland,1.5
+120,Ireland,1.5
+27,European Union,1.5
+171,Cyprus,1.5
+141,Belgium,1.5
+52,Spain,1.5
+155,Slovenia,1.5
+111,Portugal,1.5
+135,Netherlands,1.5
+179,Luxembourg,1.5
+208,Malta,0.82
+72,Italy,0.75
+116,Czech Republic,0.75
+134,Denmark,0.75
+136,Switzerland,0.75
+184,Hong Kong,0.5
+3,United States,0.5
+38,Chile,0.5
+80,United Kingdom,0.5
+56,Sweden,0.5
+62,Japan,0.3
+2,Canada,0.25
+105,Bulgaria,0.22
+71,Oman,0.05

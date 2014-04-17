@@ -1,0 +1,253 @@
+country,id,region
+French Southern and Antarctic Lands,230,Antarctica
+Anguilla,227,Caribbean
+Antigua and Barbuda,201,Caribbean
+Bermuda,232,Caribbean
+Bouvet Island,233,Caribbean
+British Virgin Islands,220,Caribbean
+Cabo Verde,176,Caribbean
+Cayman Islands,211,Caribbean
+Curacao,200,Caribbean
+Dominica,189,Caribbean
+Montserrat,226,Caribbean
+Navassa Island,246,Caribbean
+"Saint Helena, Ascension, and Tristan da Cunha",209,Caribbean
+Saint Kitts and Nevis,212,Caribbean
+Sint Maarten,236,Caribbean
+Turks and Caicos Islands,186,Caribbean
+Virgin Islands,182,Caribbean
+Aruba,218,Caribbean
+Bahamas,161,Caribbean
+Barbados,202,Caribbean
+Cuba,106,Caribbean
+Dominican Republic,132,Caribbean
+Grenada,207,Caribbean
+Haiti,148,Caribbean
+Jamaica,168,Caribbean
+Puerto Rico,163,Caribbean
+Saint Lucia,193,Caribbean
+Saint Vincent and the Grenadines,204,Caribbean
+Trinidad and Tobago,174,Caribbean
+Belize,152,Central America
+Costa Rica,130,Central America
+El Salvador,153,Central America
+Guatemala,107,Central America
+Honduras,103,Central America
+Mexico,14,Central America
+Nicaragua,98,Central America
+Panama,118,Central America
+Kazakhstan,9,Central Asia
+Kyrgyzstan,87,Central Asia
+Tajikistan,96,Central Asia
+Turkmenistan,53,Central Asia
+Uzbekistan,57,Central Asia
+Greenland,12,Developed Countries
+United States Pacific Island Wildlife Refuges,239,Developed Countries
+Australia,6,Developed Countries
+Canada,2,Developed Countries
+Japan,62,Developed Countries
+New Zealand,76,Developed Countries
+United States of America,3,Developed Countries
+South Sudan,42,Eastern Africa
+Burundi,147,Eastern Africa
+Comoros,180,Eastern Africa
+Djibouti,151,Eastern Africa
+Eritrea,101,Eastern Africa
+Ethiopia,27,Eastern Africa
+Kenya,49,Eastern Africa
+Madagascar,47,Eastern Africa
+Malawi,100,Eastern Africa
+Mauritius,181,Eastern Africa
+Mozambique,35,Eastern Africa
+Rwanda,149,Eastern Africa
+Somalia,44,Eastern Africa
+Sudan,16,Eastern Africa
+Tanzania,31,Eastern Africa
+Uganda,81,Eastern Africa
+Zambia,39,Eastern Africa
+Zimbabwe,61,Eastern Africa
+"Korea, North",99,Eastern Asia
+"Korea, South",109,Eastern Asia
+Macau,237,Eastern Asia
+Taiwan,139,Eastern Asia
+Vietnam,66,Eastern Asia
+China,4,Eastern Asia
+Hong Kong,184,Eastern Asia
+Mongolia,19,Eastern Asia
+Akrotiri,224,Eastern Europe
+Kosovo,169,Eastern Europe
+Albania,145,Eastern Europe
+Belarus,86,Eastern Europe
+Bulgaria,105,Eastern Europe
+Croatia,127,Eastern Europe
+Czech Republic,116,Eastern Europe
+Estonia,133,Eastern Europe
+Greece,97,Eastern Europe
+Hungary,110,Eastern Europe
+Latvia,124,Eastern Europe
+Lithuania,123,Eastern Europe
+Macedonia,150,Eastern Europe
+Moldova,140,Eastern Europe
+Montenegro,162,Eastern Europe
+Poland,70,Eastern Europe
+Romania,83,Eastern Europe
+Russia,1,Eastern Europe
+Serbia,117,Eastern Europe
+Slovakia,131,Eastern Europe
+Slovenia,155,Eastern Europe
+Ukraine,46,Eastern Europe
+Bosnia and Herzegovina,129,Eastern Europe
+"Congo, Democratic Republic of the",11,Middle Africa
+"Congo, Republic of the",64,Middle Africa
+Angola,23,Middle Africa
+Cameroon,54,Middle Africa
+Central African Republic,45,Middle Africa
+Chad,21,Middle Africa
+Equatorial Guinea,146,Middle Africa
+Gabon,77,Middle Africa
+Sao Tome and Principe,185,Middle Africa
+Afghanistan,41,Middle East
+Gaza Strip,206,Middle East
+Iran,18,Middle East
+South Georgia and South Sandwich Islands,177,Middle East
+West Bank,172,Middle East
+Armenia,143,Middle East
+Azerbaijan,113,Middle East
+Bahrain,188,Middle East
+Cyprus,171,Middle East
+Georgia,121,Middle East
+Iraq,59,Middle East
+Israel,154,Middle East
+Jordan,112,Middle East
+Kuwait,158,Middle East
+Lebanon,170,Middle East
+Oman,71,Middle East
+Qatar,166,Middle East
+Saudi Arabia,13,Middle East
+Syria,89,Middle East
+Turkey,37,Middle East
+United Arab Emirates,115,Middle East
+Yemen,50,Middle East
+Algeria,10,Northern Africa
+Egypt,30,Northern Africa
+Libya,17,Northern Africa
+Morocco,58,Northern Africa
+Tunisia,93,Northern Africa
+American Samoa,216,Oceania
+Ashmore and Cartier Islands,247,Oceania
+British Indian Ocean Territory,128,Oceania
+Brunei,173,Oceania
+Christmas Island,222,Oceania
+Clipperton Island,245,Oceania
+Cocos (Keeling) Islands,241,Oceania
+Cook Islands,215,Oceania
+Coral Sea Islands,249,Oceania
+Dhekelia,223,Oceania
+Falkland Islands (Islas Malvinas),165,Oceania
+Faroe Islands,183,Oceania
+Guernsey,228,Oceania
+Heard Island and McDonald Islands,203,Oceania
+Howland Island,251,Oceania
+Jan Mayen,205,Oceania
+Kiribati,187,Oceania
+Marshall Islands,217,Oceania
+Nauru,240,Oceania
+Niue,213,Oceania
+Norfolk Island,235,Oceania
+Northern Mariana Islands,197,Oceania
+Palau,198,Oceania
+Pitcairn Islands,234,Oceania
+Saint Martin,231,Oceania
+Saint Pierre and Miquelon,214,Oceania
+Seychelles,199,Oceania
+Spratly Islands,248,Oceania
+Svalbard,125,Oceania
+Tokelau,242,Oceania
+Tuvalu,238,Oceania
+Wake Island,244,Oceania
+Wallis and Futuna,221,Oceania
+Fiji,157,Oceania
+French Polynesia,175,Oceania
+Guam,195,Oceania
+"Micronesia, Federated States of",191,Oceania
+New Caledonia,156,Oceania
+Papua New Guinea,55,Oceania
+Samoa,178,Oceania
+Solomon Islands,144,Oceania
+Tonga,190,Oceania
+Vanuatu,164,Oceania
+Argentina,8,South America
+Brazil,5,South America
+Chile,38,South America
+Colombia,26,South America
+Ecuador,74,South America
+Guyana,85,South America
+Paraguay,60,South America
+Peru,20,South America
+Suriname,92,South America
+Uruguay,91,South America
+Venezuela,33,South America
+Bolivia,28,South America
+Burma,40,South-Eastern Asia
+Cambodia,90,South-Eastern Asia
+Indonesia,15,South-Eastern Asia
+Laos,84,South-Eastern Asia
+Malaysia,67,South-Eastern Asia
+Philippines,73,South-Eastern Asia
+Singapore,192,South-Eastern Asia
+Thailand,51,South-Eastern Asia
+Timor-Leste,160,South-Eastern Asia
+Botswana,48,Southern Africa
+Lesotho,142,Southern Africa
+Namibia,34,Southern Africa
+South Africa,25,Southern Africa
+Swaziland,159,Southern Africa
+Bangladesh,95,Southern Asia
+Bhutan,137,Southern Asia
+India,7,Southern Asia
+Maldives,210,Southern Asia
+Nepal,94,Southern Asia
+Pakistan,36,Southern Asia
+Sri Lanka,122,Southern Asia
+Cote d'Ivoire,69,Western Africa
+Western Sahara,78,Western Africa
+Benin,102,Western Africa
+Burkina Faso,75,Western Africa
+Gambia,167,Western Africa
+Ghana,82,Western Africa
+Guinea,79,Western Africa
+Guinea-Bissau,138,Western Africa
+Liberia,104,Western Africa
+Mali,24,Western Africa
+Mauritania,29,Western Africa
+Niger,22,Western Africa
+Nigeria,32,Western Africa
+Senegal,88,Western Africa
+Sierra Leone,119,Western Africa
+Togo,126,Western Africa
+Andorra,196,Western Europe
+Gibraltar,243,Western Europe
+Holy See (Vatican City),252,Western Europe
+Isle of Man,194,Western Europe
+Jersey,225,Western Europe
+Liechtenstein,219,Western Europe
+Monaco,250,Western Europe
+San Marino,229,Western Europe
+Austria,114,Western Europe
+Belgium,141,Western Europe
+Denmark,134,Western Europe
+Finland,65,Western Europe
+France,43,Western Europe
+Germany,63,Western Europe
+Iceland,108,Western Europe
+Ireland,120,Western Europe
+Italy,72,Western Europe
+Luxembourg,179,Western Europe
+Malta,208,Western Europe
+Netherlands,135,Western Europe
+Norway,68,Western Europe
+Portugal,111,Western Europe
+Spain,52,Western Europe
+Sweden,56,Western Europe
+Switzerland,136,Western Europe
+United Kingdom,80,Western Europe

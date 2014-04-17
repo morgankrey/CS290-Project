@@ -1,0 +1,211 @@
+id,country,electricity_nuclear_fuels
+43,France,50.8
+141,Belgium,32.3
+46,Ukraine,25.2
+56,Sweden,24.6
+131,Slovakia,23.2
+109,"Korea, South",21.9
+116,Czech Republic,21.3
+155,Slovenia,20.9
+110,Hungary,20
+105,Bulgaria,19
+136,Switzerland,18
+1,Russia,17.8
+62,Japan,17.1
+65,Finland,16.2
+80,United Kingdom,11.6
+143,Armenia,10.8
+139,Taiwan,10.6
+3,United States,9.7
+83,Romania,9.4
+2,Canada,9.2
+52,Spain,7.3
+63,Germany,7
+25,South Africa,4.1
+8,Argentina,3.1
+14,Mexico,2.2
+7,India,2.2
+36,Pakistan,2.1
+135,Netherlands,1.9
+5,Brazil,1.8
+4,China,1.1
+218,Aruba,0
+201,Antigua and Barbuda,0
+115,United Arab Emirates,0
+41,Afghanistan,0
+10,Algeria,0
+113,Azerbaijan,0
+145,Albania,0
+196,Andorra,0
+23,Angola,0
+216,American Samoa,0
+6,Australia,0
+114,Austria,0
+188,Bahrain,0
+202,Barbados,0
+48,Botswana,0
+232,Bermuda,0
+161,"Bahamas, The",0
+95,Bangladesh,0
+152,Belize,0
+129,Bosnia and Herzegovina,0
+28,Bolivia,0
+40,Burma,0
+102,Benin,0
+86,Belarus,0
+144,Solomon Islands,0
+137,Bhutan,0
+173,Brunei,0
+147,Burundi,0
+90,Cambodia,0
+21,Chad,0
+122,Sri Lanka,0
+64,"Congo, Republic of the",0
+11,"Congo, Democratic Republic of the",0
+38,Chile,0
+211,Cayman Islands,0
+54,Cameroon,0
+180,Comoros,0
+26,Colombia,0
+130,Costa Rica,0
+45,Central African Republic,0
+106,Cuba,0
+176,Cabo Verde,0
+215,Cook Islands,0
+171,Cyprus,0
+134,Denmark,0
+151,Djibouti,0
+189,Dominica,0
+132,Dominican Republic,0
+74,Ecuador,0
+30,Egypt,0
+120,Ireland,0
+146,Equatorial Guinea,0
+133,Estonia,0
+101,Eritrea,0
+153,El Salvador,0
+27,Ethiopia,0
+157,Fiji,0
+165,Falkland Islands (Islas Malvinas),0
+183,Faroe Islands,0
+175,French Polynesia,0
+167,"Gambia, The",0
+77,Gabon,0
+121,Georgia,0
+82,Ghana,0
+243,Gibraltar,0
+207,Grenada,0
+12,Greenland,0
+195,Guam,0
+97,Greece,0
+107,Guatemala,0
+79,Guinea,0
+85,Guyana,0
+148,Haiti,0
+184,Hong Kong,0
+103,Honduras,0
+127,Croatia,0
+108,Iceland,0
+15,Indonesia,0
+18,Iran,0
+154,Israel,0
+72,Italy,0
+69,Cote d'Ivoire,0
+59,Iraq,0
+168,Jamaica,0
+112,Jordan,0
+49,Kenya,0
+87,Kyrgyzstan,0
+99,"Korea, North",0
+187,Kiribati,0
+158,Kuwait,0
+9,Kazakhstan,0
+84,Laos,0
+170,Lebanon,0
+124,Latvia,0
+123,Lithuania,0
+104,Liberia,0
+142,Lesotho,0
+179,Luxembourg,0
+17,Libya,0
+47,Madagascar,0
+237,Macau,0
+140,Moldova,0
+19,Mongolia,0
+226,Montserrat,0
+100,Malawi,0
+162,Montenegro,0
+150,Macedonia,0
+24,Mali,0
+58,Morocco,0
+181,Mauritius,0
+29,Mauritania,0
+208,Malta,0
+71,Oman,0
+210,Maldives,0
+67,Malaysia,0
+35,Mozambique,0
+156,New Caledonia,0
+213,Niue,0
+22,Niger,0
+164,Vanuatu,0
+32,Nigeria,0
+68,Norway,0
+94,Nepal,0
+240,Nauru,0
+92,Suriname,0
+98,Nicaragua,0
+76,New Zealand,0
+42,South Sudan,0
+60,Paraguay,0
+20,Peru,0
+70,Poland,0
+118,Panama,0
+111,Portugal,0
+55,Papua New Guinea,0
+138,Guinea-Bissau,0
+166,Qatar,0
+117,Serbia,0
+73,Philippines,0
+163,Puerto Rico,0
+149,Rwanda,0
+13,Saudi Arabia,0
+214,Saint Pierre and Miquelon,0
+212,Saint Kitts and Nevis,0
+199,Seychelles,0
+88,Senegal,0
+209,"Saint Helena, Ascension, and Tristan da Cunha",0
+119,Sierra Leone,0
+192,Singapore,0
+44,Somalia,0
+193,Saint Lucia,0
+16,Sudan,0
+89,Syria,0
+174,Trinidad and Tobago,0
+51,Thailand,0
+96,Tajikistan,0
+186,Turks and Caicos Islands,0
+190,Tonga,0
+126,Togo,0
+185,Sao Tome and Principe,0
+93,Tunisia,0
+37,Turkey,0
+53,Turkmenistan,0
+31,Tanzania,0
+81,Uganda,0
+75,Burkina Faso,0
+91,Uruguay,0
+57,Uzbekistan,0
+204,Saint Vincent and the Grenadines,0
+33,Venezuela,0
+220,British Virgin Islands,0
+66,Vietnam,0
+182,Virgin Islands,0
+34,Namibia,0
+172,West Bank,0
+78,Western Sahara,0
+178,Samoa,0
+159,Swaziland,0
+50,Yemen,0
+39,Zambia,0
+61,Zimbabwe,0

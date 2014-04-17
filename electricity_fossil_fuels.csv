@@ -1,0 +1,211 @@
+id,country,electricity_fossil_fuels
+201,Antigua and Barbuda,100
+50,Yemen,100
+216,American Samoa,100
+188,Bahrain,100
+202,Barbados,100
+48,Botswana,100
+161,"Bahamas, The",100
+144,Solomon Islands,100
+173,Brunei,100
+21,Chad,100
+211,Cayman Islands,100
+151,Djibouti,100
+167,"Gambia, The",100
+243,Gibraltar,100
+12,Greenland,100
+195,Guam,100
+184,Hong Kong,100
+187,Kiribati,100
+158,Kuwait,100
+104,Liberia,100
+17,Libya,100
+237,Macau,100
+226,Montserrat,100
+71,Oman,100
+213,Niue,100
+22,Niger,100
+240,Nauru,100
+138,Guinea-Bissau,100
+166,Qatar,100
+13,Saudi Arabia,100
+212,Saint Kitts and Nevis,100
+199,Seychelles,100
+209,"Saint Helena, Ascension, and Tristan da Cunha",100
+44,Somalia,100
+193,Saint Lucia,100
+186,Turks and Caicos Islands,100
+190,Tonga,100
+53,Turkmenistan,100
+220,British Virgin Islands,100
+182,Virgin Islands,100
+172,West Bank,100
+78,Western Sahara,100
+115,United Arab Emirates,100
+19,Mongolia,99.9
+210,Maldives,99.9
+192,Singapore,99.8
+174,Trinidad and Tobago,99.7
+86,Belarus,99.7
+88,Senegal,99.7
+208,Malta,99.7
+112,Jordan,99.4
+106,Cuba,99.3
+215,Cook Islands,98.9
+101,Eritrea,98.7
+207,Grenada,98.6
+102,Benin,98.4
+232,Bermuda,98.2
+154,Israel,98.1
+214,Saint Pierre and Miquelon,97.7
+10,Algeria,97.5
+146,Equatorial Guinea,97.4
+163,Puerto Rico,97.2
+176,Cabo Verde,96.9
+93,Tunisia,96.8
+95,Bangladesh,96
+85,Guyana,96
+168,Jamaica,94.8
+90,Cambodia,94.8
+171,Cyprus,94.2
+133,Estonia,93.4
+67,Malaysia,91.7
+25,South Africa,90.8
+132,Dominican Republic,90.6
+165,Falkland Islands (Islas Malvinas),90
+164,Vanuatu,89.3
+70,Poland,89.2
+89,Syria,89.2
+51,Thailand,89
+218,Aruba,88.7
+140,Moldova,88.4
+9,Kazakhstan,88.2
+170,Lebanon,87.9
+30,Egypt,87.6
+75,Burkina Faso,87.3
+15,Indonesia,87
+18,Iran,86.2
+204,Saint Vincent and the Grenadines,85.1
+57,Uzbekistan,85.1
+113,Azerbaijan,84.5
+135,Netherlands,83.6
+180,Comoros,83.3
+148,Haiti,79
+6,Australia,78.7
+139,Taiwan,77.2
+156,New Caledonia,76.8
+14,Mexico,76.2
+120,Ireland,76.2
+181,Mauritius,75.7
+80,United Kingdom,75.4
+3,United States,75.3
+175,French Polynesia,74.7
+109,"Korea, South",74.5
+110,Hungary,72
+7,India,70.8
+123,Lithuania,70.6
+178,Samoa,70.6
+4,China,69.5
+97,Greece,69.5
+58,Morocco,69.3
+59,Iraq,69
+79,Guinea,68.4
+36,Pakistan,68.3
+1,Russia,67.7
+32,Nigeria,67.1
+73,Philippines,66.9
+61,Zimbabwe,66.6
+8,Argentina,66.2
+117,Serbia,66.1
+98,Nicaragua,66
+47,Madagascar,65.6
+72,Italy,65
+37,Turkey,64.9
+183,Faroe Islands,64.9
+46,Ukraine,64.1
+150,Macedonia,64.1
+103,Honduras,63.7
+62,Japan,63.5
+29,Mauritania,63.1
+134,Denmark,63
+116,Czech Republic,62.1
+38,Chile,62
+83,Romania,61.7
+196,Andorra,61.3
+55,Papua New Guinea,61.1
+20,Peru,60.1
+159,Swaziland,59.7
+77,Gabon,59
+28,Bolivia,58.9
+185,Sao Tome and Principe,57.1
+23,Angola,56.9
+107,Guatemala,56.5
+143,Armenia,55.6
+74,Ecuador,55.3
+66,Vietnam,55
+92,Suriname,53.9
+122,Sri Lanka,53.8
+40,Burma,53.3
+118,Panama,52.6
+153,El Salvador,52.6
+149,Rwanda,52.4
+65,Finland,52.3
+64,"Congo, Republic of the",51.2
+152,Belize,51.1
+63,Germany,51
+129,Bosnia and Herzegovina,50.8
+69,Cote d'Ivoire,50.6
+157,Fiji,49
+111,Portugal,49
+52,Spain,48.7
+24,Mali,48.4
+99,"Korea, North",47.4
+119,Sierra Leone,47.1
+127,Croatia,45.9
+105,Bulgaria,45.7
+141,Belgium,43.6
+45,Central African Republic,43.2
+131,Slovakia,42.2
+49,Kenya,41.9
+82,Ghana,40.6
+91,Uruguay,39.8
+155,Slovenia,38
+121,Georgia,37.2
+33,Venezuela,35.7
+34,Namibia,33.3
+31,Tanzania,33.2
+26,Colombia,32.9
+130,Costa Rica,32.4
+76,New Zealand,31.7
+2,Canada,31.7
+81,Uganda,31.5
+16,Sudan,30.7
+42,South Sudan,30.7
+179,Luxembourg,28.3
+54,Cameroon,27.8
+114,Austria,27.5
+124,Latvia,27.2
+162,Montenegro,24.2
+41,Afghanistan,23.5
+43,France,22.1
+126,Togo,21.2
+87,Kyrgyzstan,20.1
+189,Dominica,19.6
+5,Brazil,19.6
+56,Sweden,13
+145,Albania,9.9
+27,Ethiopia,9.9
+96,Tajikistan,9
+94,Nepal,7.9
+108,Iceland,4.7
+136,Switzerland,3.1
+84,Laos,2.6
+68,Norway,2
+147,Burundi,1.9
+11,"Congo, Democratic Republic of the",1.4
+137,Bhutan,1.1
+39,Zambia,0.4
+100,Malawi,0.3
+60,Paraguay,0.1
+35,Mozambique,0.1
+142,Lesotho,0

@@ -1,0 +1,211 @@
+id,country,electricity_hydroelectric
+142,Lesotho,100
+35,Mozambique,99.9
+60,Paraguay,99.9
+100,Malawi,99.7
+39,Zambia,99.6
+137,Bhutan,98.9
+11,"Congo, Democratic Republic of the",98.6
+147,Burundi,98.1
+84,Laos,97.4
+94,Nepal,92.1
+68,Norway,91.7
+96,Tajikistan,91
+145,Albania,90.1
+27,Ethiopia,89.7
+87,Kyrgyzstan,79.9
+126,Togo,78.8
+41,Afghanistan,76.5
+162,Montenegro,75.8
+108,Iceland,73
+54,Cameroon,72.2
+5,Brazil,71
+124,Latvia,70.9
+31,Tanzania,66.8
+34,Namibia,66.7
+26,Colombia,66.6
+42,South Sudan,66.3
+16,Sudan,66.3
+136,Switzerland,65.9
+81,Uganda,65.3
+33,Venezuela,64.3
+121,Georgia,62.8
+114,Austria,59.6
+82,Ghana,59.4
+91,Uruguay,59.4
+45,Central African Republic,56.8
+130,Costa Rica,55.5
+2,Canada,54.7
+76,New Zealand,54.2
+119,Sierra Leone,52.9
+99,"Korea, North",52.6
+24,Mali,51.6
+69,Cote d'Ivoire,49.4
+129,Bosnia and Herzegovina,49.2
+64,"Congo, Republic of the",48.8
+118,Panama,47.4
+149,Rwanda,47.2
+40,Burma,46.7
+92,Suriname,46.1
+56,Sweden,45.5
+157,Fiji,45.3
+66,Vietnam,45
+49,Kenya,44.8
+127,Croatia,44.7
+122,Sri Lanka,44.6
+23,Angola,43.1
+185,Sao Tome and Principe,42.9
+74,Ecuador,42.8
+77,Gabon,41
+159,Swaziland,40.3
+20,Peru,39.9
+28,Bolivia,39.3
+29,Mauritania,36.9
+150,Macedonia,35.9
+47,Madagascar,34.4
+38,Chile,33.7
+155,Slovenia,33.6
+143,Armenia,33.5
+61,Zimbabwe,33.4
+32,Nigeria,32.8
+152,Belize,32
+37,Turkey,32
+153,El Salvador,31.6
+79,Guinea,31.6
+107,Guatemala,31.1
+183,Faroe Islands,31
+59,Iraq,31
+103,Honduras,30.9
+55,Papua New Guinea,30.9
+36,Pakistan,29.6
+178,Samoa,29.2
+8,Argentina,27.6
+83,Romania,27
+117,Serbia,26.6
+175,French Polynesia,25.3
+196,Andorra,23.3
+105,Bulgaria,21.8
+4,China,21.8
+111,Portugal,21.5
+148,Haiti,21
+73,Philippines,20.8
+131,Slovakia,20.4
+7,India,19.5
+58,Morocco,19.4
+65,Finland,18.8
+14,Mexico,18.3
+72,Italy,18
+180,Comoros,16.7
+97,Greece,16.2
+156,New Caledonia,15.6
+113,Azerbaijan,15.4
+1,Russia,15.1
+204,Saint Vincent and the Grenadines,14.9
+57,Uzbekistan,14.9
+43,France,14.7
+18,Iran,13.7
+6,Australia,13.6
+52,Spain,13
+75,Burkina Faso,12.7
+170,Lebanon,12.1
+9,Kazakhstan,11.8
+140,Moldova,11.6
+51,Thailand,10.9
+89,Syria,10.8
+30,Egypt,10.4
+15,Indonesia,9.9
+46,Ukraine,9.9
+98,Nicaragua,9.5
+132,Dominican Republic,9.2
+67,Malaysia,8.3
+62,Japan,7.8
+3,United States,7.6
+181,Mauritius,6.6
+189,Dominica,6.2
+63,Germany,6
+116,Czech Republic,5.7
+139,Taiwan,5.3
+90,Cambodia,3.6
+95,Bangladesh,3.4
+123,Lithuania,3.2
+120,Ireland,2.9
+70,Poland,2.8
+163,Puerto Rico,2.8
+146,Equatorial Guinea,2.6
+10,Algeria,2.5
+168,Jamaica,2.1
+179,Luxembourg,2
+109,"Korea, South",2
+80,United Kingdom,1.8
+93,Tunisia,1.7
+102,Benin,1.6
+25,South Africa,1.5
+110,Hungary,1
+106,Cuba,0.6
+141,Belgium,0.6
+112,Jordan,0.4
+85,Guyana,0.3
+86,Belarus,0.2
+133,Estonia,0.2
+135,Netherlands,0.1
+134,Denmark,0.1
+218,Aruba,0
+201,Antigua and Barbuda,0
+115,United Arab Emirates,0
+216,American Samoa,0
+188,Bahrain,0
+202,Barbados,0
+48,Botswana,0
+232,Bermuda,0
+161,"Bahamas, The",0
+144,Solomon Islands,0
+173,Brunei,0
+21,Chad,0
+211,Cayman Islands,0
+176,Cabo Verde,0
+215,Cook Islands,0
+171,Cyprus,0
+151,Djibouti,0
+101,Eritrea,0
+165,Falkland Islands (Islas Malvinas),0
+167,"Gambia, The",0
+243,Gibraltar,0
+207,Grenada,0
+12,Greenland,0
+195,Guam,0
+184,Hong Kong,0
+154,Israel,0
+187,Kiribati,0
+158,Kuwait,0
+104,Liberia,0
+17,Libya,0
+237,Macau,0
+19,Mongolia,0
+226,Montserrat,0
+208,Malta,0
+71,Oman,0
+210,Maldives,0
+213,Niue,0
+22,Niger,0
+164,Vanuatu,0
+240,Nauru,0
+138,Guinea-Bissau,0
+166,Qatar,0
+13,Saudi Arabia,0
+214,Saint Pierre and Miquelon,0
+212,Saint Kitts and Nevis,0
+199,Seychelles,0
+88,Senegal,0
+209,"Saint Helena, Ascension, and Tristan da Cunha",0
+192,Singapore,0
+44,Somalia,0
+193,Saint Lucia,0
+174,Trinidad and Tobago,0
+186,Turks and Caicos Islands,0
+190,Tonga,0
+53,Turkmenistan,0
+220,British Virgin Islands,0
+182,Virgin Islands,0
+172,West Bank,0
+78,Western Sahara,0
+50,Yemen,0

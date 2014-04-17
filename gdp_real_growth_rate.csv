@@ -1,0 +1,221 @@
+id,country,gdp_real_growth_rate
+42,South Sudan,24.7
+119,Sierra Leone,13.3
+53,Turkmenistan,12.2
+60,Paraguay,12
+19,Mongolia,11.8
+186,Turks and Caicos Islands,11.2
+237,Macau,10
+84,Laos,8.3
+104,Liberia,8.1
+160,Timor-Leste,8.1
+69,Cote d'Ivoire,8
+82,Ghana,7.9
+4,China,7.6
+149,Rwanda,7.5
+118,Panama,7.5
+87,Kyrgyzstan,7.4
+27,Ethiopia,7
+57,Uzbekistan,7
+90,Cambodia,7
+31,Tanzania,7
+101,Eritrea,7
+35,Mozambique,7
+96,Tajikistan,6.8
+40,Burma,6.8
+73,Philippines,6.8
+77,Gabon,6.6
+28,Bolivia,6.5
+75,Burkina Faso,6.5
+167,"Gambia, The",6.4
+29,Mauritania,6.4
+122,Sri Lanka,6.3
+22,Niger,6.2
+11,"Congo, Democratic Republic of the",6.2
+32,Nigeria,6.2
+213,Niue,6.2
+243,Gibraltar,6
+39,Zambia,6
+64,"Congo, Republic of the",5.8
+137,Bhutan,5.8
+95,Bangladesh,5.8
+172,West Bank,5.7
+81,Uganda,5.6
+23,Angola,5.6
+166,Qatar,5.5
+126,Togo,5.5
+55,Papua New Guinea,5.4
+15,Indonesia,5.3
+66,Vietnam,5.3
+85,Guyana,5.3
+194,Isle of Man,5.2
+20,Peru,5.1
+71,Oman,5.1
+58,Morocco,5.1
+250,Monaco,5.1
+49,Kenya,5.1
+102,Benin,5
+151,Djibouti,5
+100,Malawi,5
+9,Kazakhstan,5
+24,Mali,4.8
+92,Suriname,4.7
+67,Malaysia,4.7
+143,Armenia,4.6
+54,Cameroon,4.6
+147,Burundi,4.5
+185,Sao Tome and Principe,4.5
+188,Bahrain,4.4
+34,Namibia,4.4
+38,Chile,4.4
+26,Colombia,4.2
+98,Nicaragua,4.2
+142,Lesotho,4.1
+74,Ecuador,4
+124,Latvia,4
+115,United Arab Emirates,4
+144,Solomon Islands,4
+236,Sint Maarten,4
+88,Senegal,4
+140,Moldova,4
+48,Botswana,3.9
+16,Sudan,3.9
+21,Chad,3.9
+154,Israel,3.8
+7,India,3.8
+37,Turkey,3.8
+50,Yemen,3.8
+59,Iraq,3.7
+36,Pakistan,3.6
+94,Nepal,3.6
+13,Saudi Arabia,3.6
+138,Guinea-Bissau,3.5
+198,Palau,3.5
+226,Montserrat,3.5
+210,Maldives,3.5
+130,Costa Rica,3.5
+91,Uruguay,3.5
+180,Comoros,3.5
+192,Singapore,3.5
+8,Argentina,3.5
+113,Azerbaijan,3.5
+181,Mauritius,3.4
+123,Lithuania,3.4
+148,Haiti,3.4
+112,Jordan,3.3
+164,Vanuatu,3.3
+199,Seychelles,3.3
+107,Guatemala,3.3
+61,Zimbabwe,3.2
+10,Algeria,3.1
+51,Thailand,3.1
+106,Cuba,3.1
+41,Afghanistan,3.1
+12,Greenland,3
+157,Fiji,3
+216,American Samoa,3
+184,Hong Kong,3
+228,Guernsey,3
+187,Kiribati,2.9
+183,Faroe Islands,2.9
+79,Guinea,2.9
+93,Tunisia,2.8
+109,"Korea, South",2.8
+103,Honduras,2.8
+47,Madagascar,2.6
+44,Somalia,2.6
+169,Kosovo,2.6
+6,Australia,2.5
+76,New Zealand,2.5
+152,Belize,2.5
+121,Georgia,2.5
+5,Brazil,2.5
+218,Aruba,2.4
+158,Kuwait,2.3
+217,Marshall Islands,2.3
+150,Macedonia,2.2
+139,Taiwan,2.2
+86,Belarus,2.1
+182,Virgin Islands,2
+117,Serbia,2
+132,Dominican Republic,2
+25,South Africa,2
+83,Romania,2
+62,Japan,2
+212,Saint Kitts and Nevis,1.9
+108,Iceland,1.9
+161,"Bahamas, The",1.9
+30,Egypt,1.8
+136,Switzerland,1.7
+201,Antigua and Barbuda,1.7
+145,Albania,1.7
+33,Venezuela,1.6
+3,United States,1.6
+174,Trinidad and Tobago,1.6
+68,Norway,1.6
+153,El Salvador,1.6
+2,Canada,1.6
+176,Cabo Verde,1.5
+133,Estonia,1.5
+170,Lebanon,1.5
+162,Montenegro,1.5
+173,Brunei,1.4
+80,United Kingdom,1.4
+220,British Virgin Islands,1.3
+99,"Korea, North",1.3
+70,Poland,1.3
+1,Russia,1.3
+195,Guam,1.3
+204,Saint Vincent and the Grenadines,1.3
+14,Mexico,1.2
+189,Dominica,1.1
+238,Tuvalu,1.1
+211,Cayman Islands,1.1
+208,Malta,1.1
+190,Tonga,1
+241,Cocos (Keeling) Islands,1
+56,Sweden,0.9
+131,Slovakia,0.8
+207,Grenada,0.8
+191,"Micronesia, Federated States of",0.6
+120,Ireland,0.6
+156,New Caledonia,0.6
+179,Luxembourg,0.5
+63,Germany,0.5
+105,Bulgaria,0.5
+129,Bosnia and Herzegovina,0.5
+168,Jamaica,0.4
+114,Austria,0.4
+46,Ukraine,0.4
+43,France,0.2
+193,Saint Lucia,0.2
+110,Hungary,0.2
+134,Denmark,0.1
+178,Samoa,0.1
+215,Cook Islands,0.1
+141,Belgium,0.1
+159,Swaziland,0
+200,Curacao,0
+27,European Union,0
+116,Czech Republic,-0.4
+175,French Polynesia,-0.4
+219,Liechtenstein,-0.5
+127,Croatia,-0.6
+65,Finland,-0.6
+202,Barbados,-0.8
+52,Spain,-1.3
+135,Netherlands,-1.3
+146,Equatorial Guinea,-1.5
+18,Iran,-1.5
+196,Andorra,-1.6
+111,Portugal,-1.8
+72,Italy,-1.8
+155,Slovenia,-2.6
+232,Bermuda,-3.5
+229,San Marino,-3.5
+97,Greece,-4.2
+17,Libya,-5.1
+163,Puerto Rico,-5.8
+227,Anguilla,-8.5
+171,Cyprus,-8.7
+45,Central African Republic,-14.5

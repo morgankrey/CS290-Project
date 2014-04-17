@@ -1,0 +1,192 @@
+id,country,obesity_prevalence
+216,American Samoa,74.6
+240,Nauru,71.1
+215,Cook Islands,63.7
+242,Tokelau,63.4
+190,Tonga,57.6
+178,Samoa,54.1
+198,Palau,48.9
+187,Kiribati,46
+217,Marshall Islands,45.4
+158,Kuwait,42
+212,Saint Kitts and Nevis,40.7
+191,"Micronesia, Federated States of",40.6
+161,"Bahamas, The",34.7
+202,Barbados,34.7
+152,Belize,33.7
+166,Qatar,33.2
+30,Egypt,33.1
+3,United States,33
+13,Saudi Arabia,33
+188,Bahrain,32.9
+116,Czech Republic,32.7
+115,United Arab Emirates,32.7
+14,Mexico,32.1
+25,South Africa,31.3
+157,Fiji,30.6
+33,Venezuela,30.3
+144,Solomon Islands,30
+112,Jordan,30
+8,Argentina,29.7
+38,Chile,29.4
+174,Trinidad and Tobago,29.3
+208,Malta,28.8
+155,Slovenia,28.6
+76,New Zealand,28.3
+17,Libya,27.8
+37,Turkey,27.8
+110,Hungary,27.6
+123,Lithuania,27.6
+164,Vanuatu,27.5
+170,Lebanon,27.4
+89,Syria,27.1
+59,Iraq,27
+80,United Kingdom,26.9
+6,Australia,26.8
+52,Spain,26.6
+1,Russia,26.5
+129,Bosnia and Herzegovina,26.5
+2,Canada,26.2
+154,Israel,26.2
+179,Luxembourg,26
+153,El Salvador,25.8
+201,Antigua and Barbuda,25.6
+171,Cyprus,25.5
+131,Slovakia,25.4
+118,Panama,25.4
+70,Poland,25.3
+120,Ireland,25.2
+196,Andorra,25.2
+63,Germany,25.1
+92,Suriname,25.1
+189,Dominica,24.9
+124,Latvia,24.9
+117,Serbia,24.8
+91,Uruguay,24.8
+86,Belarus,24.3
+127,Croatia,24.2
+168,Jamaica,24.1
+143,Armenia,24
+111,Portugal,24
+199,Seychelles,23.9
+113,Azerbaijan,23.8
+105,Bulgaria,23.7
+130,Costa Rica,23.7
+9,Kazakhstan,23.7
+204,Saint Vincent and the Grenadines,23.4
+108,Iceland,23.2
+65,Finland,23
+207,Grenada,22.5
+162,Montenegro,22.5
+93,Tunisia,22.3
+98,Nicaragua,22.2
+121,Georgia,22.1
+141,Belgium,22.1
+68,Norway,21.5
+106,Cuba,21.5
+74,Ecuador,21.4
+193,Saint Lucia,21.4
+145,Albania,21.3
+46,Ukraine,21.3
+132,Dominican Republic,21.2
+140,Moldova,21.2
+150,Macedonia,21.1
+114,Austria,20.9
+71,Oman,20.9
+133,Estonia,20.6
+97,Greece,20.1
+72,Italy,19.8
+159,Swaziland,19.7
+18,Iran,19.4
+107,Guatemala,19.2
+83,Romania,19.1
+5,Brazil,18.8
+135,Netherlands,18.8
+56,Sweden,18.6
+181,Mauritius,18.5
+103,Honduras,18.4
+134,Denmark,18.2
+43,France,18.2
+28,Bolivia,17.9
+60,Paraguay,17.9
+136,Switzerland,17.5
+26,Colombia,17.3
+85,Guyana,17.2
+58,Morocco,16.4
+55,Papua New Guinea,16.2
+10,Algeria,16
+20,Peru,15.7
+87,Kyrgyzstan,15.5
+57,Uzbekistan,15.1
+142,Lesotho,14.6
+50,Yemen,14.5
+19,Mongolia,14.4
+67,Malaysia,14
+77,Gabon,13.9
+53,Turkmenistan,13.2
+210,Maldives,12.9
+29,Mauritania,12.7
+48,Botswana,11.2
+146,Equatorial Guinea,10.6
+54,Cameroon,10.3
+176,Cabo Verde,10
+185,Sao Tome and Principe,9.5
+34,Namibia,9.5
+151,Djibouti,9.4
+51,Thailand,8.8
+96,Tajikistan,8.6
+148,Haiti,7.9
+167,"Gambia, The",7.9
+109,"Korea, South",7.7
+82,Ghana,7.5
+173,Brunei,7.5
+192,Singapore,7.1
+61,Zimbabwe,7
+119,Sierra Leone,6.8
+88,Senegal,6.8
+32,Nigeria,6.5
+23,Angola,6.4
+73,Philippines,6.3
+69,Cote d'Ivoire,6.2
+16,Sudan,6
+102,Benin,6
+4,China,5.7
+36,Pakistan,5.5
+137,Bhutan,5.3
+122,Sri Lanka,5.1
+31,Tanzania,5
+62,Japan,5
+35,Mozambique,4.9
+138,Guinea-Bissau,4.9
+15,Indonesia,4.8
+104,Liberia,4.8
+44,Somalia,4.8
+64,"Congo, Republic of the",4.7
+180,Comoros,4.4
+79,Guinea,4.4
+24,Mali,4.3
+81,Uganda,4.3
+100,Malawi,4.3
+126,Togo,4.3
+149,Rwanda,4.3
+49,Kenya,4.2
+40,Burma,4
+99,"Korea, North",3.9
+39,Zambia,3.6
+45,Central African Republic,3.5
+147,Burundi,2.9
+21,Chad,2.7
+160,Timor-Leste,2.7
+84,Laos,2.6
+22,Niger,2.4
+75,Burkina Faso,2.3
+41,Afghanistan,2.2
+90,Cambodia,2.1
+7,India,1.9
+11,"Congo, Democratic Republic of the",1.7
+66,Vietnam,1.7
+47,Madagascar,1.6
+101,Eritrea,1.5
+94,Nepal,1.4
+95,Bangladesh,1.1
+27,Ethiopia,1.1

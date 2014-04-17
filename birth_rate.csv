@@ -1,0 +1,225 @@
+id,country,birth_rate
+22,Niger,46.12
+24,Mali,45.53
+81,Uganda,44.17
+39,Zambia,42.46
+75,Burkina Faso,42.42
+147,Burundi,42.33
+100,Malawi,41.8
+44,Somalia,40.87
+23,Angola,38.97
+41,Afghanistan,38.84
+35,Mozambique,38.83
+32,Nigeria,38.03
+42,South Sudan,37.68
+27,Ethiopia,37.66
+119,Sierra Leone,37.4
+21,Chad,37.29
+31,Tanzania,36.82
+64,"Congo, Republic of the",36.59
+54,Cameroon,36.58
+102,Benin,36.51
+79,Guinea,36.02
+11,"Congo, Democratic Republic of the",35.62
+45,Central African Republic,35.45
+185,Sao Tome and Principe,35.12
+88,Senegal,35.09
+104,Liberia,35.07
+77,Gabon,34.64
+149,Rwanda,34.61
+126,Togo,34.52
+160,Timor-Leste,34.48
+138,Guinea-Bissau,33.83
+146,Equatorial Guinea,33.83
+47,Madagascar,33.12
+61,Zimbabwe,32.47
+206,Gaza Strip,32.2
+29,Mauritania,31.83
+167,"Gambia, The",31.75
+82,Ghana,31.4
+50,Yemen,31.02
+78,Western Sahara,30.71
+101,Eritrea,30.69
+16,Sudan,30.01
+69,Cote d'Ivoire,29.25
+180,Comoros,29.05
+49,Kenya,28.27
+59,Iraq,26.85
+217,Marshall Islands,26.36
+144,Solomon Islands,26.33
+142,Lesotho,25.92
+164,Vanuatu,25.69
+240,Nauru,25.61
+107,Guatemala,25.46
+112,Jordan,25.23
+159,Swaziland,25.18
+152,Belize,25.14
+96,Tajikistan,24.99
+55,Papua New Guinea,24.89
+84,Laos,24.76
+71,Oman,24.47
+90,Cambodia,24.4
+73,Philippines,24.24
+151,Djibouti,24.08
+10,Algeria,23.99
+238,Tuvalu,23.74
+103,Honduras,23.66
+190,Tonga,23.55
+172,West Bank,23.41
+30,Egypt,23.35
+87,Kyrgyzstan,23.33
+28,Bolivia,23.28
+36,Pakistan,23.19
+216,American Samoa,22.87
+148,Haiti,22.83
+89,Syria,22.76
+187,Kiribati,21.85
+95,Bangladesh,21.61
+48,Botswana,21.34
+178,Samoa,21.29
+94,Nepal,21.07
+191,"Micronesia, Federated States of",20.97
+19,Mongolia,20.88
+176,Cabo Verde,20.72
+34,Namibia,20.28
+158,Kuwait,20.26
+67,Malaysia,20.06
+7,India,19.89
+157,Fiji,19.86
+9,Kazakhstan,19.61
+53,Turkmenistan,19.46
+33,Venezuela,19.42
+14,Mexico,19.02
+132,Dominican Republic,18.97
+25,South Africa,18.94
+197,Northern Mariana Islands,18.94
+74,Ecuador,18.87
+13,Saudi Arabia,18.78
+40,Burma,18.65
+118,Panama,18.61
+20,Peru,18.57
+58,Morocco,18.47
+154,Israel,18.44
+168,Jamaica,18.41
+98,Nicaragua,18.41
+17,Libya,18.4
+18,Iran,18.23
+137,Bhutan,18.12
+173,Brunei,17.49
+15,Indonesia,17.04
+57,Uzbekistan,17.02
+195,Guam,17.01
+113,Azerbaijan,16.96
+93,Tunisia,16.9
+8,Argentina,16.88
+37,Turkey,16.86
+153,El Salvador,16.79
+92,Suriname,16.73
+26,Colombia,16.73
+60,Paraguay,16.66
+186,Turks and Caicos Islands,16.61
+207,Grenada,16.3
+66,Vietnam,16.26
+122,Sri Lanka,16.24
+130,Costa Rica,16.08
+201,Antigua and Barbuda,15.94
+85,Guyana,15.9
+161,"Bahamas, The",15.65
+210,Maldives,15.59
+156,New Caledonia,15.57
+115,United Arab Emirates,15.54
+189,Dominica,15.53
+175,French Polynesia,15.47
+120,Ireland,15.18
+170,Lebanon,14.8
+5,Brazil,14.72
+215,Cook Islands,14.7
+199,Seychelles,14.54
+12,Greenland,14.53
+99,"Korea, North",14.51
+243,Gibraltar,14.15
+38,Chile,13.97
+193,Saint Lucia,13.94
+188,Bahrain,13.92
+143,Armenia,13.92
+204,Saint Vincent and the Grenadines,13.85
+174,Trinidad and Tobago,13.8
+212,Saint Kitts and Nevis,13.64
+183,Faroe Islands,13.57
+221,Wallis and Futuna,13.56
+181,Mauritius,13.46
+3,United States,13.42
+76,New Zealand,13.4
+91,Uruguay,13.18
+108,Iceland,13.09
+236,Sint Maarten,13
+121,Georgia,12.93
+145,Albania,12.73
+227,Anguilla,12.68
+218,Aruba,12.65
+43,France,12.49
+80,United Kingdom,12.22
+140,Moldova,12.21
+6,Australia,12.19
+4,China,12.17
+211,Cayman Islands,12.13
+68,Norway,12.09
+202,Barbados,11.97
+56,Sweden,11.92
+1,Russia,11.87
+179,Luxembourg,11.75
+225,Jersey,11.65
+150,Macedonia,11.64
+171,Cyprus,11.44
+232,Bermuda,11.35
+226,Montserrat,11.31
+51,Thailand,11.26
+194,Isle of Man,11.17
+198,Palau,10.95
+163,Puerto Rico,10.9
+86,Belarus,10.86
+220,British Virgin Islands,10.83
+135,Netherlands,10.83
+162,Montenegro,10.59
+219,Liechtenstein,10.53
+182,Virgin Islands,10.49
+136,Switzerland,10.48
+65,Finland,10.35
+133,Estonia,10.29
+2,Canada,10.29
+208,Malta,10.24
+134,Denmark,10.22
+209,"Saint Helena, Ascension, and Tristan da Cunha",10.03
+131,Slovakia,10.01
+141,Belgium,9.99
+166,Qatar,9.95
+106,Cuba,9.9
+228,Guernsey,9.89
+52,Spain,9.88
+124,Latvia,9.79
+116,Czech Republic,9.79
+70,Poland,9.77
+127,Croatia,9.49
+111,Portugal,9.42
+46,Ukraine,9.41
+184,Hong Kong,9.38
+123,Lithuania,9.36
+83,Romania,9.27
+110,Hungary,9.26
+117,Serbia,9.13
+237,Macau,8.98
+105,Bulgaria,8.92
+129,Bosnia and Herzegovina,8.89
+72,Italy,8.84
+97,Greece,8.8
+114,Austria,8.76
+229,San Marino,8.7
+139,Taiwan,8.55
+155,Slovenia,8.54
+196,Andorra,8.48
+63,Germany,8.42
+109,"Korea, South",8.26
+192,Singapore,8.1
+62,Japan,8.07
+214,Saint Pierre and Miquelon,7.7
+250,Monaco,6.72

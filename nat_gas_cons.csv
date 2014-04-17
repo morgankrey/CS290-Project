@@ -1,0 +1,214 @@
+id,country,nat_gas_cons
+3,United States,"689,900,000,000"
+1,Russia,"457,200,000,000"
+27,European Union,"443,900,000,000"
+18,Iran,"144,600,000,000"
+4,China,"143,000,000,000"
+62,Japan,"112,600,000,000"
+13,Saudi Arabia,"99,230,000,000"
+2,Canada,"82,480,000,000"
+80,United Kingdom,"82,210,000,000"
+63,Germany,"75,200,000,000"
+72,Italy,"68,700,000,000"
+7,India,"64,490,000,000"
+115,United Arab Emirates,"60,540,000,000"
+14,Mexico,"59,150,000,000"
+46,Ukraine,"56,200,000,000"
+135,Netherlands,"54,850,000,000"
+109,"Korea, South","49,660,000,000"
+43,France,"47,990,000,000"
+57,Uzbekistan,"46,800,000,000"
+30,Egypt,"46,170,000,000"
+51,Thailand,"45,080,000,000"
+8,Argentina,"43,290,000,000"
+36,Pakistan,"42,900,000,000"
+15,Indonesia,"39,560,000,000"
+37,Turkey,"38,130,000,000"
+52,Spain,"35,820,000,000"
+6,Australia,"33,390,000,000"
+67,Malaysia,"32,620,000,000"
+10,Algeria,"28,820,000,000"
+33,Venezuela,"27,110,000,000"
+5,Brazil,"25,200,000,000"
+53,Turkmenistan,"25,000,000,000"
+174,Trinidad and Tobago,"23,320,000,000"
+86,Belarus,"21,820,000,000"
+95,Bangladesh,"19,910,000,000"
+166,Qatar,"19,530,000,000"
+71,Oman,"17,530,000,000"
+139,Taiwan,"16,370,000,000"
+70,Poland,"14,380,000,000"
+158,Kuwait,"14,220,000,000"
+83,Romania,"14,200,000,000"
+141,Belgium,"13,460,000,000"
+188,Bahrain,"12,770,000,000"
+110,Hungary,"11,900,000,000"
+9,Kazakhstan,"10,200,000,000"
+66,Vietnam,"10,200,000,000"
+113,Azerbaijan,"9,921,000,000"
+89,Syria,"9,630,000,000"
+116,Czech Republic,"9,280,000,000"
+26,Colombia,"9,080,000,000"
+114,Austria,"9,000,000,000"
+192,Singapore,"8,778,000,000"
+28,Bolivia,"8,590,000,000"
+154,Israel,"6,860,000,000"
+17,Libya,"6,844,000,000"
+131,Slovakia,"6,468,000,000"
+68,Norway,"5,506,000,000"
+120,Ireland,"5,506,000,000"
+20,Peru,"5,490,000,000"
+38,Chile,"5,296,000,000"
+111,Portugal,"5,143,000,000"
+32,Nigeria,"5,030,000,000"
+134,Denmark,"4,994,000,000"
+65,Finland,"4,700,000,000"
+76,New Zealand,"4,537,000,000"
+97,Greece,"4,200,000,000"
+25,South Africa,"4,010,000,000"
+123,Lithuania,"3,300,000,000"
+93,Tunisia,"3,280,000,000"
+40,Burma,"3,240,000,000"
+136,Switzerland,"3,200,000,000"
+173,Brunei,"2,970,000,000"
+73,Philippines,"2,860,000,000"
+117,Serbia,"2,840,000,000"
+184,Hong Kong,"2,790,000,000"
+127,Croatia,"2,755,000,000"
+105,Bulgaria,"2,540,000,000"
+143,Armenia,"2,100,000,000"
+121,Georgia,"1,970,000,000"
+146,Equatorial Guinea,"1,580,000,000"
+56,Sweden,"1,530,000,000"
+124,Latvia,"1,520,000,000"
+69,Cote d'Ivoire,"1,500,000,000"
+112,Jordan,"1,400,000,000"
+179,Luxembourg,"1,364,000,000"
+59,Iraq,"1,300,000,000"
+140,Moldova,"1,095,000,000"
+155,Slovenia,"1,060,000,000"
+106,Cuba,"1,030,000,000"
+64,"Congo, Republic of the","930,000,000"
+50,Yemen,"869,900,000"
+132,Dominican Republic,"820,000,000"
+31,Tanzania,"780,000,000"
+163,Puerto Rico,"770,000,000"
+23,Angola,"733,000,000"
+133,Estonia,"701,000,000"
+58,Morocco,"560,000,000"
+87,Kyrgyzstan,"462,500,000"
+74,Ecuador,"330,000,000"
+129,Bosnia and Herzegovina,"230,000,000"
+54,Cameroon,"210,000,000"
+96,Tajikistan,"172,000,000"
+170,Lebanon,"150,000,000"
+41,Afghanistan,"140,000,000"
+150,Macedonia,"136,600,000"
+82,Ghana,"120,000,000"
+55,Papua New Guinea,"110,000,000"
+77,Gabon,"80,000,000"
+35,Mozambique,"80,000,000"
+91,Uruguay,"80,000,000"
+88,Senegal,"20,000,000"
+202,Barbados,"20,000,000"
+145,Albania,"10,000,000"
+99,"Korea, North",1
+218,Aruba,1
+201,Antigua and Barbuda,0
+216,American Samoa,0
+48,Botswana,0
+232,Bermuda,0
+161,"Bahamas, The",0
+152,Belize,0
+102,Benin,0
+144,Solomon Islands,0
+137,Bhutan,0
+147,Burundi,0
+90,Cambodia,0
+200,Curacao,0
+21,Chad,0
+122,Sri Lanka,0
+11,"Congo, Democratic Republic of the",0
+211,Cayman Islands,0
+180,Comoros,0
+130,Costa Rica,0
+45,Central African Republic,0
+176,Cabo Verde,0
+215,Cook Islands,0
+171,Cyprus,0
+151,Djibouti,0
+189,Dominica,0
+101,Eritrea,0
+153,El Salvador,0
+27,Ethiopia,0
+157,Fiji,0
+165,Falkland Islands (Islas Malvinas),0
+183,Faroe Islands,0
+175,French Polynesia,0
+167,"Gambia, The",0
+243,Gibraltar,0
+207,Grenada,0
+12,Greenland,0
+195,Guam,0
+107,Guatemala,0
+79,Guinea,0
+85,Guyana,0
+148,Haiti,0
+103,Honduras,0
+108,Iceland,0
+168,Jamaica,0
+49,Kenya,0
+187,Kiribati,0
+169,Kosovo,0
+84,Laos,0
+104,Liberia,0
+142,Lesotho,0
+47,Madagascar,0
+237,Macau,0
+19,Mongolia,0
+226,Montserrat,0
+100,Malawi,0
+162,Montenegro,0
+24,Mali,0
+181,Mauritius,0
+29,Mauritania,0
+208,Malta,0
+210,Maldives,0
+156,New Caledonia,0
+213,Niue,0
+22,Niger,0
+164,Vanuatu,0
+94,Nepal,0
+240,Nauru,0
+92,Suriname,0
+98,Nicaragua,0
+42,South Sudan,0
+60,Paraguay,0
+118,Panama,0
+138,Guinea-Bissau,0
+149,Rwanda,0
+214,Saint Pierre and Miquelon,0
+212,Saint Kitts and Nevis,0
+199,Seychelles,0
+209,"Saint Helena, Ascension, and Tristan da Cunha",0
+119,Sierra Leone,0
+44,Somalia,0
+193,Saint Lucia,0
+16,Sudan,0
+186,Turks and Caicos Islands,0
+190,Tonga,0
+126,Togo,0
+185,Sao Tome and Principe,0
+160,Timor-Leste,0
+81,Uganda,0
+75,Burkina Faso,0
+204,Saint Vincent and the Grenadines,0
+220,British Virgin Islands,0
+182,Virgin Islands,0
+34,Namibia,0
+172,West Bank,0
+78,Western Sahara,0
+178,Samoa,0
+159,Swaziland,0
+39,Zambia,0
+61,Zimbabwe,0
